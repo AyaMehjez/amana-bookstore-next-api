@@ -2,7 +2,7 @@
   "reviews": [
     {
       "id": "review-1",
-      "bookId": 1,
+      "bookId": "1",
       "author": "Dr. Yasmin Al-Baghdadi",
       "rating": 5,
       "title": "Excellent foundation for physics students",
@@ -12,7 +12,7 @@
     },
     {
       "id": "review-2",
-      "bookId": 1,
+      "bookId": "1",
       "author": "Ahmad Khalil",
       "rating": 4,
       "title": "Clear explanations of complex concepts",
@@ -22,7 +22,7 @@
     },
     {
       "id": "review-3",
-      "bookId": 1,
+      "bookId": "1",
       "author": "Prof. Layla Al-Masri",
       "rating": 5,
       "title": "Perfect for engineering applications",
@@ -32,7 +32,7 @@
     },
     {
       "id": "review-4",
-      "bookId": 1,
+      "bookId": "1",
       "author": "Omar Hassan",
       "rating": 4,
       "title": "Good mathematical rigor",
@@ -42,7 +42,7 @@
     },
     {
       "id": "review-5",
-      "bookId": 1,
+      "bookId": "1",
       "author": "Fatima Al-Zahra",
       "rating": 5,
       "title": "Essential for physics majors",
@@ -52,7 +52,7 @@
     },
     {
       "id": "review-6",
-      "bookId": 2,
+      "bookId": "2",
       "author": "Prof. Khalid Al-Razi",
       "rating": 5,
       "title": "Outstanding quantum mechanics text",
@@ -62,7 +62,7 @@
     },
     {
       "id": "review-7",
-      "bookId": 2,
+      "bookId": "2",
       "author": "Zahra Mansour",
       "rating": 4,
       "title": "Advanced but accessible",
@@ -72,7 +72,7 @@
     },
     {
       "id": "review-8",
-      "bookId": 2,
+      "bookId": "2",
       "author": "Dr. Samir Al-Kindi",
       "rating": 5,
       "title": "Comprehensive quantum theory",
@@ -82,7 +82,7 @@
     },
     {
       "id": "review-9",
-      "bookId": 2,
+      "bookId": "2",
       "author": "Nadia Al-Sharif",
       "rating": 4,
       "title": "Excellent for graduate students",
@@ -92,7 +92,7 @@
     },
     {
       "id": "review-10",
-      "bookId": 2,
+      "bookId": "2",
       "author": "Prof. Tariq Al-Dimashqi",
       "rating": 5,
       "title": "Modern approach to quantum mechanics",
@@ -101,8 +101,8 @@
       "verified": true
     },
     {
-      "id": "review-11",
-      "bookId": 15,
+      "id": "review-60",
+      "bookId": "15",
       "author": "Dr. Amina Al-Andalusi",
       "rating": 4,
       "title": "Excellent climate science integration",
@@ -111,52 +111,52 @@
       "verified": true
     },
     {
-      "bookId": 4,
+      "bookId": "4",
       "user": "Amani_Reader",
       "text": "تجربة قراءة ممتازة، الكتاب قدم معلومات قيمة بأسلوب شيق ومباشر. أنصح به بشدة.",
       "rating": 5,
       "title": "مراجعة رائعة",
-      "id": 1,
+      "id": "1",
       "timestamp": "2025-10-09T12:29:30.143Z"
     },
     {
-      "bookId": 4,
+      "bookId": "4",
       "user": "Amani_Reader",
       "text": "تجربة قراءة ممتازة، الكتاب قدم معلومات قيمة بأسلوب شيق ومباشر. أنصح به بشدة.",
       "rating": 5,
       "title": "مراجعة رائعة",
-      "id": 2,
+      "id": "2",
       "timestamp": "2025-10-09T12:30:57.563Z"
     },
     {
-      "bookId": 4,
+      "bookId": "4",
       "user": "Amani_Reader",
       "text": "تجربة قراءة ممتازة، الكتاب قدم معلومات قيمة بأسلوب شيق ومباشر. أنصح به بشدة.",
       "rating": 5,
       "title": "مراجعة رائعة",
-      "id": 3,
+      "id": "3",
       "timestamp": "2025-10-09T12:44:35.484Z"
     },
     {
-      "bookId": 4,
+      "bookId": "4",
       "user": "Amani_Reader",
       "text": "تجربة قراءة ممتازة، الكتاب قدم معلومات قيمة بأسلوب شيق ومباشر. أنصح به بشدة.",
       "rating": 5,
       "title": "مراجعة رائعة",
-      "id": 4,
+      "id": "4",
       "timestamp": "2025-10-09T12:46:30.117Z"
     },
     {
-      "bookId": 1,
+      "bookId": "1",
       "user": "Amani_Reader",
       "text": "تجربة قراءة ممتازة، الكتاب قدم معلومات قيمة بأسلوب شيق ومباشر. أنصح به بشدة.",
       "rating": 5,
       "title": "مراجعة رائعة",
-      "id": 5,
+      "id": "5",
       "timestamp": "2025-10-09T12:46:52.856Z"
     },
     {
-      "bookId": 3,
+      "bookId": "3",
       "user": "Amani_Reader",
       "text": "تجربة قراءة ممتازة، الكتاب قدم معلومات قيمة بأسلوب شيق ومباشر. أنصح به بشدة.",
       "rating": 5,
@@ -165,8 +165,8 @@
       "timestamp": "2025-10-09T12:48:57.954Z"
     },
     {
-      "id": 6,
-      "bookId": 1,
+      "id": "6",
+      "bookId": "1",
       "user": "Amani_Reader",
       "text": "تجربة قراءة ممتازة، الكتاب قدم معلومات قيمة بأسلوب شيق.",
       "title": "مراجعة رائعة",

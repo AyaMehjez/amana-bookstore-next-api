@@ -1,7 +1,7 @@
 {
   "books": [
     {
-      "id": 1,
+      "id": "1",
       "title": "Fundamentals of Classical Mechanics",
       "author": "Dr. Ahmad Al-Kindi",
       "description": "A comprehensive introduction to classical mechanics covering Newtonian dynamics, conservation laws, rotational motion, and oscillations with modern applications.",
@@ -27,7 +27,7 @@
       "featured": true
     },
     {
-      "id": 2,
+      "id": "2",
       "title": "Quantum Physics: Principles and Applications",
       "author": "Prof. Fatima Al-Haytham",
       "description": "An advanced textbook exploring quantum mechanics, wave functions, uncertainty principles, and quantum applications in modern technology.",
@@ -53,7 +53,7 @@
       "featured": true
     },
     {
-      "id": 3,
+      "id": "3",
       "title": "Stellar Astrophysics and Galactic Structure",
       "author": "Dr. Omar Al-Battani",
       "description": "Explores stellar evolution, galactic dynamics, and cosmological structures with emphasis on observational techniques and theoretical frameworks.",
@@ -102,7 +102,7 @@
       "reviewCount": 20,
       "inStock": true,
       "featured": true,
-      "id": 4
+      "id": "4"
     },
     {
       "title": "test 1",
@@ -128,7 +128,7 @@
       "reviewCount": 20,
       "inStock": true,
       "featured": true,
-      "id": 5
+      "id": "5"
     },
     {
       "title": "Introduction to Thermodynamics",
@@ -154,7 +154,7 @@
       "reviewCount": 0,
       "inStock": true,
       "featured": false,
-      "id": 6
+      "id": "6"
     },
     {
       "title": "Advanced Backend Security",
@@ -183,7 +183,7 @@
       "reviewCount": 0,
       "inStock": true,
       "featured": true,
-      "id": 7
+      "id": "7"
     },
     {
       "title": "Optimizing Backend Performance",
@@ -212,7 +212,7 @@
       "reviewCount": 0,
       "inStock": true,
       "featured": false,
-      "id": 8
+      "id": "8"
     },
     {
       "title": "Documenting APIs Like a Pro",
@@ -241,7 +241,7 @@
       "reviewCount": 0,
       "inStock": true,
       "featured": true,
-      "id": 9
+      "id": "9"
     }
   ]
 }
