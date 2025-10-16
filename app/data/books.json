@@ -1,0 +1,247 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "Fundamentals of Classical Mechanics",
+      "author": "Dr. Ahmad Al-Kindi",
+      "description": "A comprehensive introduction to classical mechanics covering Newtonian dynamics, conservation laws, rotational motion, and oscillations with modern applications.",
+      "price": 89.99,
+      "image": "/images/book1.jpg",
+      "isbn": "978-0123456789",
+      "genre": [
+        "Physics",
+        "Textbook"
+      ],
+      "tags": [
+        "Mechanics",
+        "Physics",
+        "University"
+      ],
+      "datePublished": "2022-01-15",
+      "pages": 654,
+      "language": "English",
+      "publisher": "Al-Biruni Academic Press",
+      "rating": 4.8,
+      "reviewCount": 23,
+      "inStock": true,
+      "featured": true
+    },
+    {
+      "id": 2,
+      "title": "Quantum Physics: Principles and Applications",
+      "author": "Prof. Fatima Al-Haytham",
+      "description": "An advanced textbook exploring quantum mechanics, wave functions, uncertainty principles, and quantum applications in modern technology.",
+      "price": 125.5,
+      "image": "/images/book2.jpg",
+      "isbn": "978-0234567890",
+      "genre": [
+        "Physics",
+        "Quantum Mechanics"
+      ],
+      "tags": [
+        "Quantum",
+        "Advanced Physics",
+        "Modern Physics"
+      ],
+      "datePublished": "2023-03-10",
+      "pages": 782,
+      "language": "English",
+      "publisher": "Ibn Sina Publications",
+      "rating": 4.9,
+      "reviewCount": 18,
+      "inStock": true,
+      "featured": true
+    },
+    {
+      "id": 3,
+      "title": "Stellar Astrophysics and Galactic Structure",
+      "author": "Dr. Omar Al-Battani",
+      "description": "Explores stellar evolution, galactic dynamics, and cosmological structures with emphasis on observational techniques and theoretical frameworks.",
+      "price": 98.75,
+      "image": "/images/book3.jpg",
+      "isbn": "978-0345678901",
+      "genre": [
+        "Astronomy",
+        "Astrophysics"
+      ],
+      "tags": [
+        "Stars",
+        "Galaxies",
+        "Cosmology"
+      ],
+      "datePublished": "2022-09-20",
+      "pages": 567,
+      "language": "English",
+      "publisher": "Al-Sufi Astronomical Society",
+      "rating": 4.7,
+      "reviewCount": 12,
+      "inStock": false,
+      "featured": false
+    },
+    {
+      "title": "test 1",
+      "author": "Dr. Hashem mdoukh",
+      "description": "A comprehensive introduction to classical mechanics covering Newtonian dynamics, conservation laws, rotational motion, and oscillations with modern applications.",
+      "price": 30.99,
+      "image": "/images/book1.jpg",
+      "isbn": "978-0123456789",
+      "genre": [
+        "Physics",
+        "Textbook"
+      ],
+      "tags": [
+        "Mechanics",
+        "Physics",
+        "University"
+      ],
+      "datePublished": "2022-01-15",
+      "pages": 150,
+      "language": "English",
+      "publisher": "Al-Biruni Academic Press",
+      "rating": 4.9,
+      "reviewCount": 20,
+      "inStock": true,
+      "featured": true,
+      "id": 4
+    },
+    {
+      "title": "test 1",
+      "author": "Dr. Hashem mdoukh",
+      "description": "A comprehensive introduction to classical mechanics covering Newtonian dynamics, conservation laws, rotational motion, and oscillations with modern applications.",
+      "price": 30.99,
+      "image": "/images/book1.jpg",
+      "isbn": "978-0123456789",
+      "genre": [
+        "Physics",
+        "Textbook"
+      ],
+      "tags": [
+        "Mechanics",
+        "Physics",
+        "University"
+      ],
+      "datePublished": "2022-01-15",
+      "pages": 150,
+      "language": "English",
+      "publisher": "Al-Biruni Academic Press",
+      "rating": 4.9,
+      "reviewCount": 20,
+      "inStock": true,
+      "featured": true,
+      "id": 5
+    },
+    {
+      "title": "Introduction to Thermodynamics",
+      "author": "Dr. Lina Al-Farabi",
+      "description": "Covers the laws of thermodynamics with practical examples.",
+      "price": 59.99,
+      "image": "/images/thermo.jpg",
+      "isbn": "978-1111111111",
+      "genre": [
+        "Physics",
+        "Thermodynamics"
+      ],
+      "tags": [
+        "Heat",
+        "Energy",
+        "Entropy"
+      ],
+      "datePublished": "2024-05-21",
+      "pages": 420,
+      "language": "English",
+      "publisher": "Sina Press",
+      "rating": 4.6,
+      "reviewCount": 0,
+      "inStock": true,
+      "featured": false,
+      "id": 6
+    },
+    {
+      "title": "Advanced Backend Security",
+      "author": "Aya Mehjez",
+      "description": "A practical guide to securing Express.js and Next.js APIs with real-world examples, middleware patterns, and deployment strategies.",
+      "price": 74.99,
+      "image": "/images/backend-security.jpg",
+      "isbn": "978-9876543210",
+      "genre": [
+        "Computer Science",
+        "Web Development",
+        "Security"
+      ],
+      "tags": [
+        "Express.js",
+        "Next.js",
+        "Authentication",
+        "Authorization",
+        "Logging"
+      ],
+      "datePublished": "2025-10-16",
+      "pages": 312,
+      "language": "English",
+      "publisher": "Secure Code Press",
+      "rating": 5,
+      "reviewCount": 0,
+      "inStock": true,
+      "featured": true,
+      "id": 7
+    },
+    {
+      "title": "Optimizing Backend Performance",
+      "author": "Aya Mehjez",
+      "description": "A deep dive into backend performance tuning, covering caching strategies, database indexing, load balancing, and profiling techniques for Express.js and Next.js APIs.",
+      "price": 69.5,
+      "image": "/images/backend-performance.jpg",
+      "isbn": "978-8888888888",
+      "genre": [
+        "Web Development",
+        "Performance",
+        "Backend"
+      ],
+      "tags": [
+        "Caching",
+        "Profiling",
+        "Load Balancing",
+        "Express.js",
+        "Next.js"
+      ],
+      "datePublished": "2025-11-01",
+      "pages": 288,
+      "language": "English",
+      "publisher": "Aya Tech Press",
+      "rating": 4.8,
+      "reviewCount": 0,
+      "inStock": true,
+      "featured": false,
+      "id": 8
+    },
+    {
+      "title": "Documenting APIs Like a Pro",
+      "author": "Aya Mehjez",
+      "description": "A practical guide to writing clear, secure, and maintainable API documentation for backend systems. Covers OpenAPI, Swagger, versioning, and developer onboarding strategies.",
+      "price": 64,
+      "image": "/images/api-docs.jpg",
+      "isbn": "978-7777777777",
+      "genre": [
+        "Web Development",
+        "Documentation",
+        "Backend"
+      ],
+      "tags": [
+        "OpenAPI",
+        "Swagger",
+        "Versioning",
+        "Developer Experience",
+        "Security"
+      ],
+      "datePublished": "2025-11-10",
+      "pages": 240,
+      "language": "English",
+      "publisher": "Aya Tech Press",
+      "rating": 4.9,
+      "reviewCount": 0,
+      "inStock": true,
+      "featured": true,
+      "id": 9
+    }
+  ]
+}
